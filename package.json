@@ -1,0 +1,12 @@
+{
+    "name": "ndh_show",
+    "version": "0.0.0",
+    "description": "ndh_show",
+    "scripts": {
+        "browsersync": "node node_modules\\browser-sync\\bin\\browser-sync.js start --server ./ --files \"../**/*.html\" --directory --no-notify"
+    },
+    "author": "Wei Yu",
+    "dependencies": {
+        "browser-sync": "*"
+    }
+}
